@@ -1,0 +1,12 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../tb.cpp in debug mode
+   Compiling ../../../inference.cpp in debug mode
+   Generating csim.exe
+Logits:
+3.25566 -5.69816 4.35207 7.61336 -3.52966 2.38963 -13.1815 13.9525 1.18589 2.07052 
+Predicted digit: 7
+True digit: 7
+Prediction correct!
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
